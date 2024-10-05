@@ -2,7 +2,7 @@ Flask==1.1.2
 Jinja2==2.11.2
 Werkzeug==1.0.1
 gunicorn==20.0.4
-numpy==1.21.0
+numpy==1.18.1
 Pillow==7.1.2
-torch==1.12.0
-torchvision==0.13.0 
+http://download.pytorch.org/whl/torch/#:~:text=torch%2D2.0.0%2Bcpu.cxx11.abi%2Dcp310%2Dcp310%2Dlinux_x86_64.whl
+torchvision==0.4.2
