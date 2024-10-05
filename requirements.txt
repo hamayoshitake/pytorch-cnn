@@ -5,5 +5,5 @@ gunicorn==20.0.4
 numpy==1.21.0
 Pillow==7.1.2
 --find-links https://download.pytorch.org/whl/torch_stable.html
-torch==1.7.1+cpu
-torchvision==0.4.2
+torch==1.12.0+cpu
+torchvision==0.13.0
